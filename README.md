@@ -10,7 +10,7 @@
 
 **项目目标：让学生更容易找到同校交流对象和有用信息，并让一次求助从发布、回应走向解决。**
 
-目前项目处于选题与初步调研阶段，以下为项目定位与功能规划。
+项目已汇总学生访谈、公开资料与现有渠道实测，并建立 20 条待实现的需求故事。第 3 课前的调研证据、验收标准和待确认事项见下方索引。
 
 ## 面向谁，服务哪些场景
 
@@ -65,10 +65,21 @@
 | 经验与信息查找 | 话题分类、关键词搜索、有用经验的整理与查阅 |
 | 社区管理 | 用户权限、举报处理、内容管理与个人信息保护 |
 
-具体需求及优先级将在调研后进一步细化。
+各模块的课前需求与验收标准已录入故事 Issue。管理和维护约束仍待确认，后续实现进度以 Issue 为准。
 
 ## 相关文档
 
 - [选题说明](docs/01-topic-selection.md)：项目背景、选题原因、目标与范围。
-- [初步调研](docs/02-preliminary-research.md)：调研对象、研究问题、方法与安排。
+- [初步调研](docs/02-preliminary-research.md) 汇总调研进展、研究问题和待核实事项。
 - [调研工具包](docs/03-research-toolkit.md)：访谈提纲、问卷草案与记录模板。
+
+## 第 3 课前需求交付
+
+| 模块 | 调研与需求文档 | 故事 Issue |
+| --- | --- | --- |
+| A 校园交流与找同伴 | [观察、访谈及结伴故事](docs/06-campus-exchange-and-partner.md) | [#18](https://github.com/aserssi/se-design-campus-circle/issues/18)–[#22](https://github.com/aserssi/se-design-campus-circle/issues/22) |
+| B 校园互助与结果跟进 | [访谈、求助和失物招领故事](docs/05-campus-help-and-followup.md) | [#5](https://github.com/aserssi/se-design-campus-circle/issues/5)–[#9](https://github.com/aserssi/se-design-campus-circle/issues/9) |
+| C 经验分享与信息查找 | [实测记录](docs/task-c/evidence.md) · [用户故事](docs/task-c/stories.md) · [性能交接](docs/task-c/handover-to-d.md) | [#11](https://github.com/aserssi/se-design-campus-circle/issues/11)–[#15](https://github.com/aserssi/se-design-campus-circle/issues/15) |
+| D 社区管理与非功能需求 | [举报处置、质量目标及待确认事项](docs/07-community-management-and-quality.md) | [#24](https://github.com/aserssi/se-design-campus-circle/issues/24)–[#28](https://github.com/aserssi/se-design-campus-circle/issues/28) |
+
+[分工与协作](分工与协作.md) · [全部故事 Issue](https://github.com/aserssi/se-design-campus-circle/issues?q=is%3Aissue+label%3Astory)
