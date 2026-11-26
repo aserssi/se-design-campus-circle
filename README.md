@@ -71,6 +71,7 @@
 
 - [选题说明](docs/01-topic-selection.md)：项目背景、选题原因、目标与范围。
 - [初步调研](docs/02-preliminary-research.md) 汇总调研进展、研究问题和待核实事项。
+- [调研计划表](docs/08-research-plan.md) 记录调研对象、方法、分工、时间与交接进度。
 - [调研工具包](docs/03-research-toolkit.md)：访谈提纲、问卷草案与记录模板。
 
 ## 第 3 课前需求交付
