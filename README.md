@@ -74,6 +74,12 @@
 - [调研计划表](docs/08-research-plan.md) 记录调研对象、方法、分工、时间与交接进度。
 - [调研工具包](docs/03-research-toolkit.md)：访谈提纲、问卷草案与记录模板。
 
+## 需求规格
+
+[软件需求规格说明书 v1.0](docs/srs.md) · [用例图](docs/srs-use-cases.svg) · [需求追溯矩阵](docs/requirements-traceability.md)
+
+如需调整需求，请提交[需求变更 Issue](https://github.com/aserssi/se-design-campus-circle/issues/new?template=requirement-change.md)，确认后走 PR。
+
 ## 第 3 课前需求交付
 
 | 模块 | 调研与需求文档 | 故事 Issue |
